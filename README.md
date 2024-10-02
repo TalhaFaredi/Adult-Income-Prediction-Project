@@ -68,4 +68,4 @@ The dataset includes 15 attributes:
 
 The project successfully predicts income categories based on the given features with an accuracy of 82.5%. The preprocessing techniques, such as feature engineering and label encoding, played a vital role in improving model performance. Future improvements may involve trying other machine learning models, tuning hyperparameters, and expanding the feature set.
 
----
+
